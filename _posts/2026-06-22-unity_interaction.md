@@ -8,6 +8,7 @@ tags: [c#, raycast]     # TAG names should always be lowercase
 > 플레이어가 바라보는 방향에 상호작용 가능한 물체가 있으면 마우스 클릭(또는 E키)을 했을 때 상호작용을 하는 기능.
 > 
 
+
 ![game_test.png](/assets/img/20260622_2206/game_test.png)
 
 ![image.png](/assets/img/20260622_2206/image.png)
