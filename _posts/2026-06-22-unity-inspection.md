@@ -1,5 +1,5 @@
 ---
-title: [Unity 3D] 1인칭 플레이어 조사 기능 구현하기
+title: "[Unity 3D] 1인칭 플레이어 조사 기능 구현하기"
 date: 2026-06-22 22:06:10 +0900
 categories: [Unity3d]
 tags: [c#, lerp]     # TAG names should always be lowercase

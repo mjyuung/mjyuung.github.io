@@ -1,5 +1,5 @@
 ---
-title: [Unity 3D] ProBuilder로 간단한 3D 오브젝트 만들기
+title: "[Unity 3D] ProBuilder로 간단한 3D 오브젝트 만들기"
 date: 2026-06-22 22:09:13 +0900
 categories: [Unity3d]
 tags: [probuilder]     # TAG names should always be lowercase

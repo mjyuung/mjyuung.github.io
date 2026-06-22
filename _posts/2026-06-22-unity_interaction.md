@@ -1,5 +1,5 @@
 ---
-title: [Unity 3D] 1인칭 플레이어 상호작용 구현하기 (문 열기)
+title: "[Unity 3D] 1인칭 플레이어 상호작용 구현하기 (문 열기)"
 date: 2026-06-22 22:06:11 +0900
 categories: [Unity 3d]
 tags: [c#, raycast]     # TAG names should always be lowercase

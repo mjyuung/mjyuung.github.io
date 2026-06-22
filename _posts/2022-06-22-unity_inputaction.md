@@ -1,5 +1,5 @@
 ---
-title: [Unity 3D] InputAction 사용하기
+title: "[Unity 3D] InputAction 사용하기"
 date: 2026-06-22 22:08:25 +0900
 categories: [Unity3d]
 tags: [c#, inputaction]     # TAG names should always be lowercase
