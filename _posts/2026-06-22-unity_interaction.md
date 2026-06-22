@@ -5,8 +5,6 @@ categories: [Unity 3d]
 tags: [c#, raycast]     # TAG names should always be lowercase
 ---
 
-# [Unity 3D] 1인칭 플레이어 상호작용 구현하기 (문 열기)
-
 > 플레이어가 바라보는 방향에 상호작용 가능한 물체가 있으면 마우스 클릭(또는 E키)을 했을 때 상호작용을 하는 기능.
 > 
 
